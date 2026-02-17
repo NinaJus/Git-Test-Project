@@ -3,3 +3,4 @@
 # Description: Code for Git testing purposes
 print("I am a beginner with Git")
 # Lisätty development haaraan
+# Lisätty yksi rivi loppuun
