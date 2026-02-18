@@ -4,3 +4,4 @@
 print("I am a beginner with Git")
 # Lisätty development haaraan
 # Lisätty yksi rivi loppuun
+# Tämä on testi muutos Git-kurssia varten
