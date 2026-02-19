@@ -4,4 +4,8 @@
 print("I am a beginner with Git")
 # Lisätty development haaraan
 # Lisätty yksi rivi loppuun
+<<<<<<< HEAD
 # Tämä on testi muutos Git-kurssia varten
+=======
+# Testi VS Code Git käyttöliittymässä
+>>>>>>> Test-Branch
