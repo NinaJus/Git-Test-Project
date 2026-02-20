@@ -1,2 +1,2 @@
-print("Hello from Test-Branch")
-print("Task 22 test")
+print("Hello from Main branch")
+print("Task 24 test")
